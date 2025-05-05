@@ -62,9 +62,7 @@ shallowseek/
 Experience ShallowSeek live:  
 🔗 [https://shallowseekmultimediawebapp.netlify.app](https://shallowseekmultimediawebapp.netlify.app)
 
- 📚 Documentation
-For detailed technical documentation, see:  
-📄 [SDLC Documentation](#) (Link to your full docs)
+
 
  🤝 Contributing
 1. Fork the project
